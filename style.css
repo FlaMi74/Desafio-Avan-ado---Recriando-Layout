@@ -18,8 +18,7 @@ body {
   position: absolute;
   width: 100px;
   height: 100px;
-  left: 407px;
-  top: 56px;
+  margin: 0px 773px 564px 407px ;
 
 }
 
@@ -134,8 +133,6 @@ footer a {
 
   color: #FFFFFF;
 }
-
-
 
 #cadeado {
   position: fixed;
